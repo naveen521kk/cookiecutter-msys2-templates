@@ -1,0 +1,12 @@
+{
+    "realname": "some-package",
+    "pyname": "some-package",
+    "maintainer_name": "Name",
+    "email": "me@mywebsite.com",
+    "version":"0.0.0",
+    "description":"Description",
+    "project_url":"https://project.org/",
+    "project_license":"MIT",
+    "project_dependencies":"",
+    "project_makedependencies":""
+}
