@@ -1,4 +1,4 @@
-# Maintainer: {{cookiecutter.maintainer_name}} {{cookiecutter.email}}
+# Maintainer: {{cookiecutter.maintainer_name}} <{{cookiecutter.email}}>
 
 _pyname={{cookiecutter.pyname}}
 _realname={{cookiecutter.realname}}
