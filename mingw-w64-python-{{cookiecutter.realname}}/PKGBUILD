@@ -8,6 +8,7 @@ pkgver={{cookiecutter.version}}
 pkgrel=1
 pkgdesc='{{cookiecutter.description}} (mingw-w64)'
 arch=('any')
+mingw_arch=('mingw32' 'mingw64' 'ucrt64' 'clang64')
 url="{{cookiecutter.project_url}}"
 license=('{{cookiecutter.project_license}}')
 depends=(
